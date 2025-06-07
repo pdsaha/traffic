@@ -1,4 +1,4 @@
-## 📘 Project Title: Smart 4-Way Traffic System
+## Smart 4-Way Traffic System
 
 ### 🧩 Overview
 
